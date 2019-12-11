@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 	<!--[if IE 8]>
-		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+		<html xmlns="https://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
 	<![endif]-->
 	<!--[if !(IE 8) ]><!-->
 		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
